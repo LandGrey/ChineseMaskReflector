@@ -1,0 +1,2 @@
+# ChineseMaskReflector
+使用掩码生成自定义中文用户名拼音爆破字典
